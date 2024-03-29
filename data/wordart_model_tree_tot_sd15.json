@@ -1,0 +1,238 @@
+{
+    "realism": {
+        "realistic style": [
+            {
+                "model_name": "WordArt.safetensors",
+                "model_type": "checkpoint trained",
+                "tag": [
+                    "realistic"
+                ],
+                "version": "v2.0",
+                "trigger_words": [
+                    "None"
+                ],
+                "base_model": "SD 1.5",
+                "resources_used": [
+                    "None"
+                ],
+                "example_prompts": [
+                    "None",
+                    "None"
+                ],
+                "negtive_prompts": [
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "model_name": "majicmixRealistic_v7.safetensors",
+                "model_type": "checkpoint trained",
+                "tag": [
+                    "base model",
+                    "realistic"
+                ],
+                "version": "v2.0",
+                "trigger_words": [
+                    "None"
+                ],
+                "base_model": "SD 1.5",
+                "resources_used": [
+                    "None"
+                ],
+                "example_prompts": [
+                    "None",
+                    "None"
+                ],
+                "negtive_prompts": [
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "model_name": "YouMo_Realistic.safetensors",
+                "model_type": "checkpoint trained",
+                "tag": [
+                    "girl",
+                    "realistic"
+                ],
+                "version": "v2.0",
+                "trigger_words": [
+                    "None"
+                ],
+                "base_model": "SD 1.5",
+                "resources_used": [
+                    "None"
+                ],
+                "example_prompts": [
+                    "None",
+                    "None"
+                ],
+                "negtive_prompts": [
+                    "None",
+                    "None"
+                ]
+            }
+        ]
+    },
+    "anime": {
+        "anime style": [
+            {
+                "model_name": "Everyone_v1.safetensors",
+                "model_type": "checkpoint trained",
+                "tag": [
+                    "girl",
+                    "anime"
+                ],
+                "version": "v2.0",
+                "trigger_words": [
+                    "None"
+                ],
+                "base_model": "SD 1.5",
+                "resources_used": [
+                    "None"
+                ],
+                "example_prompts": [
+                    "None",
+                    "None"
+                ],
+                "negtive_prompts": [
+                    "None",
+                    "None"
+                ]
+            }
+        ],
+        "2.8d style": [
+            {
+                "model_name": "SouthBridge.safetensors",
+                "model_type": "checkpoint trained",
+                "tag": [
+                    "girl",
+                    "anime",
+                    "2.8D"
+                ],
+                "version": "v2.0",
+                "trigger_words": [
+                    "None"
+                ],
+                "base_model": "SD 1.5",
+                "resources_used": [
+                    "None"
+                ],
+                "example_prompts": [
+                    "None",
+                    "None"
+                ],
+                "negtive_prompts": [
+                    "None",
+                    "None"
+                ]
+            }
+        ],
+        "base model style": [
+            {
+                "model_name": "majicmixRealistic_v7.safetensors",
+                "model_type": "checkpoint trained",
+                "tag": [
+                    "base model",
+                    "realistic"
+                ],
+                "version": "v2.0",
+                "trigger_words": [
+                    "None"
+                ],
+                "base_model": "SD 1.5",
+                "resources_used": [
+                    "None"
+                ],
+                "example_prompts": [
+                    "None",
+                    "None"
+                ],
+                "negtive_prompts": [
+                    "None",
+                    "None"
+                ]
+            }
+        ],
+        "universal style": [
+            {
+                "model_name": "AnythingV5[Prt-RE].safetensors",
+                "model_type": "checkpoint trained",
+                "tag": [
+                    "universal",
+                    "anime"
+                ],
+                "version": "v2.0",
+                "trigger_words": [
+                    "None"
+                ],
+                "base_model": "SD 1.5",
+                "resources_used": [
+                    "None"
+                ],
+                "example_prompts": [
+                    "None",
+                    "None"
+                ],
+                "negtive_prompts": [
+                    "None",
+                    "None"
+                ]
+            }
+        ]
+    },
+    "traditional art": {
+        "chinese painting style": [
+            {
+                "model_name": "Chinese_style_mural.safetensors",
+                "model_type": "lora",
+                "tag": [
+                    "wash painting",
+                    "chinese painting"
+                ],
+                "version": "v2.0",
+                "trigger_words": [
+                    "UIABH"
+                ],
+                "base_model": "SD 1.5",
+                "resources_used": [
+                    "None"
+                ],
+                "example_prompts": [
+                    "None",
+                    "None"
+                ],
+                "negtive_prompts": [
+                    "None",
+                    "None"
+                ]
+            }
+        ],
+        "classical dazzle style": [
+            {
+                "model_name": "SHMILY_ClassicalDazzle_v1_0.safetensors",
+                "model_type": "checkpoint trained",
+                "tag": [
+                    "classical dazzle",
+                    "anime"
+                ],
+                "version": "v2.0",
+                "trigger_words": [
+                    "None"
+                ],
+                "base_model": "SD 1.5",
+                "resources_used": [
+                    "None"
+                ],
+                "example_prompts": [
+                    "None",
+                    "None"
+                ],
+                "negtive_prompts": [
+                    "None",
+                    "None"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "framework":"pytorch",
+    "task":"wordart-generation",
+    "pipeline":{"type":"wordart-texture"},
+    "model":{
+        "type":"wordart-texture",
+        "base_model_path": "/checkpoints/RevAnimated_v122.safetensors",
+        "lora_model_paths": ["/checkpoints/Gundamhime_lora.safetensors"],
+        "lora_model_ratios": [0.7]
+    },
+    "allow_remote":true
+}

@@ -1,0 +1,2 @@
+face-detection==0.2.2
+augly==1.0.0

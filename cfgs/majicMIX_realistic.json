@@ -1,0 +1,12 @@
+{
+    "framework":"pytorch",
+    "task":"wordart-generation",
+    "pipeline":{"type":"wordart-texture"},
+    "model":{
+        "type":"wordart-texture",
+        "base_model_path": "/checkpoints/majicMIX_realistic.safetensors",
+        "lora_model_paths": null,
+        "lora_model_ratios": null
+    },
+    "allow_remote":true
+}
